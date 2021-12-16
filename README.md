@@ -16,7 +16,7 @@ ________                 __           .____
 A USB RubberDucky payload that steals Wi-Fi credentials and sends them to the attacker via STMP.
 
 ## Resources:
-- [YouTube Video]()
+- [YouTube Video](https://youtu.be/_AABY478nNE)
 - [YouTube Channel](https://youtube.com/cosmodiumcs)
 - [Website](https://cosmodiumcs.com)
 
